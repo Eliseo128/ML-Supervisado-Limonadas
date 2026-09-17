@@ -5,3 +5,5 @@
 ### https://github.com/chris1610/pbpython.git
 
 ### https://github.com/bllchmbrs/PythonDataScienceHandbook.git
+## Data-Analysis-with-Pandas-and-Python
+####https://github.com/PacktPublishing/Data-Analysis-with-Pandas-and-Python.git
