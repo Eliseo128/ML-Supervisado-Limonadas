@@ -9,3 +9,6 @@
 ####https://github.com/PacktPublishing/Data-Analysis-with-Pandas-and-Python.git
 ### datacamp-python-data-science-track
 ### https://github.com/AmoDinho/datacamp-python-data-science-track.git
+
+### Complete-Python-Mastery
+#### https://github.com/Pankaj-Str/Complete-Python-Mastery.git
