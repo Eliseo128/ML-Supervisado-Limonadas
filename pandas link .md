@@ -7,3 +7,5 @@
 ### https://github.com/bllchmbrs/PythonDataScienceHandbook.git
 ## Data-Analysis-with-Pandas-and-Python
 ####https://github.com/PacktPublishing/Data-Analysis-with-Pandas-and-Python.git
+### datacamp-python-data-science-track
+### https://github.com/AmoDinho/datacamp-python-data-science-track.git
