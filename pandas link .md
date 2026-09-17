@@ -12,3 +12,7 @@
 
 ### Complete-Python-Mastery
 #### https://github.com/Pankaj-Str/Complete-Python-Mastery.git
+
+
+#### SciCompforChemists
+#### https://github.com/weisscharlesj/SciCompforChemists.git
